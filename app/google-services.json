@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "293875711343",
+    "firebase_url": "https://epicbase-7a998.firebaseio.com",
+    "project_id": "epicbase-7a998",
+    "storage_bucket": "epicbase-7a998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293875711343:android:c3d708ddebc97d99",
+        "android_client_info": {
+          "package_name": "com.ead.epicbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293875711343-lpiclaudtpiste2uioo2o9fsec28p1ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKOYeFvaMHumdg1KDt1PvdICF2AoAMNEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293875711343-lpiclaudtpiste2uioo2o9fsec28p1ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
